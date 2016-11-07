@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_fragments"
+            android:icon="@drawable/ic_android"
+            android:title="Fragments" />
+        <item
+            android:id="@+id/nav_canvas"
+            android:icon="@drawable/ic_logotipo"
+            android:title="Canvas" />
+    </group>
+</menu>
